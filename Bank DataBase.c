@@ -110,12 +110,6 @@ void Print(void) //This Function To Print The Data Of Customer
 int main()
 {
     int START=0;
-    int CREAT=1;
-    int EDIT=2;
-    int DELETE=4;
-    int TRANSFER=4;
-    int PRINT=5;
-    int END=6;
     while (START!=6) {
         printf(" \n1- Creat a New Customer <Press 1 To Select This option> \n");
         printf(" \n2- Edit The Data Customer <Press 2 To Select This option> \n");
