@@ -1,5 +1,5 @@
 # New Repository
-This is my first project using **C programming** And the project in short it is **Bank Data Base** when you run the program gives you **6 options** to choose from:
+## This is my first project using **C programming** And the project in short it is **Bank Data Base** when you run the program gives you **6 options** to choose from:
 
 * 1-Create a database for a new customer.
 
@@ -13,4 +13,4 @@ This is my first project using **C programming** And the project in short it is 
 
 * 5- Exit and database.
 
-##The data of any customer is a structure consisting of his name, his IP, and the money that is in his account and his account type. Is he a debtor or a credit..!
+## The data of any customer is a structure consisting of his name, his IP, and the money that is in his account and his account type. Is he a debtor or a credit..!
