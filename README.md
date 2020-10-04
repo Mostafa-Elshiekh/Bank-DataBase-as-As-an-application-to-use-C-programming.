@@ -1,4 +1,4 @@
-# New Repository
+# Bank Data Base
 ## This is my first project using **C programming** And the project in short it is **Bank Data Base** when you run the program gives you **6 options** to choose from:
 
 * 1-Create a database for a new customer.
